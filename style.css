@@ -1,0 +1,9 @@
+.aliniar {
+    background-color: white;    
+}
+body {
+    background-color: #b4a7a7;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
